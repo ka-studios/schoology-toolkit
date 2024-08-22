@@ -1,0 +1,11 @@
+This TODO is in order
+
+
+    - rename getUpcoming to getUpcomingEvents ✔ DONE
+    - Finish getUpcomingSubmissions ✔ DONE
+    - Finish getOverdueSubmissions
+    - Finish getRecentlyCompleted(Submissions?) ✔ DONE 
+    - Properly implement username/password login instead of session token
+    - (Try) to finish feed if possible
+    - Finish userprofile.ts
+    - Start on groups.ts, grades.ts, and maybe messaging.ts

@@ -1,0 +1,7 @@
+{
+    // URL of your schoology (leave blank for app.schoology.com)
+    "schoologyURL":"",
+    // Tokens will look like "SESSxxxxxxxxxxx=xxxxxxxxxxxxxxx". The first part is the prefix and the second part is the token.
+    "tokenPrefix":"SESS",
+    "token":""
+}
